@@ -1,0 +1,308 @@
+body {
+	margin:0;
+	background-color:#2f3640;
+	/* font-family: verdana; */
+	
+}
+ .header {
+	width: 5320px;
+	height: 70px;
+	position: fixed;
+	background-color:#2f3640;
+	border: 4px solid white;
+	
+}
+
+
+.header #khan1 > a{
+	margin: 20px;
+	padding: 20px;
+}
+
+.header #khan2 > a{
+	margin: 20px;
+	padding: 20px;
+
+}
+.header #khan3 > a{
+	margin: 20px;
+	padding: 20px;
+
+}
+.header #khan4 > a{
+	margin: 20px;
+	padding: 20px;
+
+}
+.header #khan5 > a{
+	margin: 20px;
+	padding: 20px;
+
+}
+.header #khan6 > a{
+	margin: 20px;
+	padding: 20px;
+
+}
+.header #khan7> a{
+	margin: 20px;
+	padding: 20px;
+
+}
+
+
+
+a { 
+	 
+	color: white;
+	text-decoration: none;
+	font-size: 27px;
+	background-size: 100% 100%;
+	
+}
+.header #khan1 a:hover {
+	background: linear-gradient(#2ecc71,#6c5ce7,#ecf0f1);
+	color: #f5f6fa;
+	border-radius: 15px;		
+}
+
+.header #khan2 a:hover {
+	background: linear-gradient(#2ecc71,#6c5ce7,#ecf0f1);
+	color: #f5f6fa;
+	border-radius: 15px;		
+}
+.header #khan3 a:hover {
+	background: linear-gradient(#2ecc71,#6c5ce7,#ecf0f1);
+	color: #f5f6fa;
+	border-radius: 15px;		
+}
+.header #khan4 a:hover {
+	background: linear-gradient(#2ecc71,#6c5ce7,#ecf0f1);
+	color: #f5f6fa;
+	border-radius: 15px;		
+}
+.header #khan5 a:hover {
+	background: linear-gradient(#2ecc71,#6c5ce7,#ecf0f1);
+	color: #f5f6fa;
+	border-radius: 15px;		
+}
+.header #khan6 a:hover {
+	background: linear-gradient(#2ecc71,#6c5ce7,#ecf0f1);
+	color: #f5f6fa;
+	border-radius: 15px;		
+}
+.header #khan7 a:hover {
+	background: linear-gradient(#2ecc71,#6c5ce7,#ecf0f1);
+	color: #f5f6fa;
+	border-radius: 15px;		
+}
+
+
+.footer {
+	/* width: 1650px; */
+	height: 250px;
+	background-image: url('website image/1.png');
+	border: 4px solid white;
+	background-size: 100% 100%;
+	 
+}
+
+.mid_footer{
+	
+	width: 110px;
+	height: 50px;
+	border: 3px solid white;
+	padding-left:10px;
+	color: white;
+	
+}
+
+.background-propatics {
+	/* width: 1700px; */
+	height: 700px;
+	
+	background-image: url('website image/_youtube logo banare (5).png'), url('website image/WhatsApp Image 2025-09-06 at 19.00.12_35d5a398.jpg') ;
+	
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	/* background-attachment: fixed; */
+	background-position: senter senter ;
+	background-size: cover;
+	
+}
+
+#footer1 {
+	padding-left:200px;
+	float: Left;
+	
+	
+}
+#footer2 {
+	padding-left:100px;
+	float: Left;
+	
+	
+}
+#footer3 {
+	padding-left:100px;
+	float: Left;
+	
+}
+#footer4 {
+	padding-left:200px;
+	float: Left;
+	
+}
+#footer5 {
+	padding-left:150px;
+	float: Left;
+	
+}
+#footer6 {
+	padding-left:120px;
+	float: Left;
+	
+}
+
+#footer7 {
+	padding-left:400px;
+	float: Left;
+	
+}
+
+#welcome {
+	 
+	height: 50px;
+	background-color: #2d3436;
+	color: white;
+	font-size: 50px;
+	padding:4px;
+	border: 4px solid white;
+	padding-left:600px;
+	position: sticky;
+	top:75px;
+}
+.w1 {
+	color: red;
+	padding-left:0px;
+	float: Left;
+}
+.w2 {
+	color: yellow;
+	padding-left:30px;
+	float: Left;
+}
+.w3 {
+	color: #F8EFBA;
+	padding-left:30px;
+	float: Left;
+}
+.w4 {
+	color: #F97F51;
+	padding-left:30px;
+	float: Left;
+}
+.w5 {
+	color:  #FC427B;
+	padding-left:30px;
+	float: Left;
+}
+.w6 {
+	color:  #BDC581;
+	padding-left:30px;
+	float: Left;
+}
+.w7 {
+	color:  red;
+	padding-left:30px;
+	float: Left;
+}
+
+
+ 
+ 
+#khan1 {
+	/* padding-left:70px; */
+	float: Left;
+	
+}
+
+#khan2 {
+	padding-left:12px;
+	float: Left;
+	 
+}
+#khan3 {
+	padding-left:12px;
+	float: Left;
+}
+#khan4 {
+	padding-left:12px;
+	float: Left;
+}
+#khan4 {
+	padding-left:12px;
+	float: Left;
+}
+#khan5 {
+	padding-left:12px;
+	float: Left;
+}
+
+#khan6 {
+	padding-left:12px;
+	float: Left;
+}
+#khan7 {
+	padding-left:12px;
+	float: Left;
+}
+
+#sumon-khan {
+	background-color: yellow;
+	color: black;
+	padding-left: 100px;
+}
+li {
+	
+	background-color: white;
+	color:black;
+	padding: 50px;
+	font-size:40px;
+}
+p {
+	background-color: white;
+	color: Black;
+	padding: 50px;
+	font-size: 30px;
+}
+
+#gemini {
+	margin-left:5px;
+	
+}
+.google {
+	width: 1020px;
+	height: 650px;
+	float: left;
+	border: 4px solid white;
+	
+}
+.pragrap {
+	padding-left: 20px;
+	font-size: 29px;
+	color: white;
+	
+}
+
+.programing {
+	height: 700px;
+	background-image: url('website image/1000_F_621380970_R7J1LVl5jj0opdCWhU8QTGo8KU56G03x.jpg');
+	
+	
+	
+	
+	
+	
+	
+}
